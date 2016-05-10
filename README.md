@@ -1,16 +1,17 @@
-# test-js
+# Vitamin D ClojureScript port
 
-A Quil sketch designed to ... well, that part is up to you.
+An attempt to make Vitamin D work in the browser.
+
+Original project by [@vsmart](https://github.com/vsmart) and [@lislis](https://github.com/lislis)
+
+https://github.com/vsmart/vitamin-d
+
+Try it at
+
+https://plexus.github.io/vitamin-d-cljs
 
 ## Usage
 
 Run `lein compile` command and open `index.html` in your browser.
 
 For interactive development run `lein cljsbuild auto` command. This command will be recompiling cljs to js each time you modify `core.cljs` and you can see result immediately by refreshing page.
-
-## License
-
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
